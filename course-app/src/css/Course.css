@@ -1,0 +1,36 @@
+.course-main{
+    display:flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    margin-top: 20px;
+}
+.course{
+    width: 350px;
+    height: 480px;
+    border: 1px solid lightgray;
+    border-radius: 5px; 
+    margin: 5px;   
+}
+
+.course-title{
+  
+    font-family:'Times New Roman', Times, serif;
+    text-align: center;
+    font-size: 25px;
+}
+
+.course-desc{
+    font-family:  'Times New Roman', Times, serif;
+    font-size: 16px;
+    padding: 5px;
+}
+
+.course-price{
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bold;
+    color: red;
+    text-align: right;
+    padding-right: 20px;
+    
+}
