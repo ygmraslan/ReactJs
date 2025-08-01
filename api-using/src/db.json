@@ -1,14 +1,10 @@
 {
-    "users":[
-        {
-            "id":1,
-            "username":"yagmur",
-            "password":"xx"
-        },
-        {
-            "id":2,
-            "username":"aslan",
-            "password":"yy"
-        }
-    ]
+  "users": [
+    {
+      "id": "1",
+      "username": "yagmur",
+      "password": "xx",
+      "postId":"7"
+    }
+  ]
 }
