@@ -1,0 +1,29 @@
+.logo {
+    width: 140px;
+    height: 55px;
+}
+
+.header-bar {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.src-input {
+    border: none;
+    border-bottom: 1px solid rgb(225, 138, 151);
+    padding: 5px 10px;
+    outline: none;
+    margin-right: 15px;
+}
+
+.icon {
+    font-size: 20px;
+    margin-right: 10px;
+}
+
+.icon:hover {
+    transform: scale(1.2);
+    cursor: pointer;
+}
